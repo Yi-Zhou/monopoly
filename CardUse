@@ -1,0 +1,37 @@
+0
+2
+1
+['1', '2']
+['red', 'yellow']
+[72, 70]
+['a', 'b']
+[0, 1]
+[17290, 767]
+[32515, 33043]
+[420, 340]
+[0, 0]
+[0, 0]
+[0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]
+[False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+[False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+[False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+[False, False]
+[False, False]
+[0, 0]
+[0, 0]
+[0, 0]
+False
+3
+15-03-20
+[False, False, False, False, False, False, False, False, False, False, False, False, True, True, True, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+16000
+1.6
+[19, 16, 3, 68, 59, 58, 54, 46, 37, 31, 30, 28, 13, 5, 29]
+[56, 44, 40, 39, 14, 70, 69, 64, 45, 18, 4]
+['Â·ÕÏ(Barrier Block)', 'µØÀ×(LandMine)', '¶¨•rÕ¨—(TimeBomb)', 'ßb¿Ø÷»×Ó(Wishful Dice)', '™CÆ÷ÍŞÍŞ(Street Cleaner)', '¶¨•rÕ¨—(TimeBomb)']
+['Â·ÕÏ(Barrier Block)', 'µØÀ×(LandMine)', '¶¨•rÕ¨—(TimeBomb)', '™CÆ÷¹¤ÈË(Mechanic Workers)', 'ßb¿Ø÷»×Ó(Wishful Dice)', '™CÆ÷ÍŞÍŞ(Street Cleaner)', 'ßb¿Ø÷»×Ó(Wishful Dice)', 'ßb¿Ø÷»×Ó(Wishful Dice)']
+['Ïİº¦¿¨(Framing Card)', 'ÃâÙM¿¨(Free Card)', 'ÌìÊ¹¿¨(Angle Card)', 'ºÄ§¿¨(Devil Card)', 'õı”¿¨(Turtle Card)', 'ÙµØ¿¨(Purchase Card)', '¹Ö«F¿¨(Monster Card)', '“ŒŠZ¿¨(Rob Card)', '¶¬Ãß¿¨(Hibernation Card)', 'Ãâ×ï¿¨(Exoneration Card)', '¼Şµœ¿¨(CalamityShift Card)', '¾ù¸»¿¨(AverageRich Card)', '¾ùØš¿¨(AveragePoor Card)', '²é¶¿¨(Tax Card)', 'Í³ğ¿¨(Revenge Card)', '‰ôß[¿¨(DreamWalk Card)']
+['Ïİº¦¿¨(Framing Card)', 'ŞDÏò¿¨(Veer Card)', 'ÌìÊ¹¿¨(Angle Card)', 'ºÄ§¿¨(Devil Card)', '²ğ³ı¿¨(Demolition Card)', 'õı”¿¨(Turtle Card)', 'ÙµØ¿¨(Purchase Card)', '¹Ö«F¿¨(Monster Card)', '“ŒŠZ¿¨(Rob Card)', '¶¬Ãß¿¨(Hibernation Card)', 'Ãâ×ï¿¨(Exoneration Card)', '¼Şµœ¿¨(CalamityShift Card)', '¾ù¸»¿¨(AverageRich Card)', '¾ùØš¿¨(AveragePoor Card)', '²é¶¿¨(Tax Card)', 'Í³ğ¿¨(Revenge Card)', '‰ôß[¿¨(DreamWalk Card)']
+[14]
+[15, 13, 18]

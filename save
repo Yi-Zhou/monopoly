@@ -1,0 +1,45 @@
+0
+4
+3
+['1', '2', '3', '4']
+['red', 'yellow', 'deepskyblue', 'lime']
+[4, 57, 41, 63]
+['a', 'b', 'c', 'd']
+[1, 0, 1, 1]
+[58060, 63050, 53400, 55540]
+[63405, 68000, 73404, 66456]
+[150, 150, 140, 80]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+[False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+[False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+[False, False, False, False]
+[False, False, False, False]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+False
+0
+15-01-25
+[False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+8000
+1
+[28, 14, 13, 4]
+[36, 46, 47]
+[65, 64, 54, 45]
+[5, 3, 68, 66]
+['ßb¿Ø÷»×Ó(Wishful Dice)', 'Â·ÕÏ(Barrier Block)', 'µØÀ×(LandMine)', '¶¨•rÕ¨—(TimeBomb)', '™CÆ÷¹¤ÈË(Mechanic Workers)', 'ßb¿Ø÷»×Ó(Wishful Dice)', '™CÆ÷ÍŞÍŞ(Street Cleaner)']
+['ßb¿Ø÷»×Ó(Wishful Dice)', '™CÆ÷¹¤ÈË(Mechanic Workers)', 'ßb¿Ø÷»×Ó(Wishful Dice)', '™CÆ÷ÍŞÍŞ(Street Cleaner)']
+['ßb¿Ø÷»×Ó(Wishful Dice)', 'Â·ÕÏ(Barrier Block)', 'µØÀ×(LandMine)', '¶¨•rÕ¨—(TimeBomb)', '™CÆ÷¹¤ÈË(Mechanic Workers)', 'ßb¿Ø÷»×Ó(Wishful Dice)', '™CÆ÷ÍŞÍŞ(Street Cleaner)']
+['ßb¿Ø÷»×Ó(Wishful Dice)', 'Â·ÕÏ(Barrier Block)', 'µØÀ×(LandMine)', '¶¨•rÕ¨—(TimeBomb)', '™CÆ÷¹¤ÈË(Mechanic Workers)', 'ßb¿Ø÷»×Ó(Wishful Dice)', '™CÆ÷ÍŞÍŞ(Street Cleaner)']
+['Ïİº¦¿¨(Framing Card)', 'ŞDÏò¿¨(Veer Card)', 'ÃâÙM¿¨(Free Card)', 'Í£Áô¿¨(Stop Card)', 'ÌìÊ¹¿¨(Angle Card)', 'ºÄ§¿¨(Devil Card)', '²ğ³ı¿¨(Demolition Card)', 'õı”¿¨(Turtle Card)', 'ÙµØ¿¨(Purchase Card)', '¹Ö«F¿¨(Monster Card)', '“ŒŠZ¿¨(Rob Card)', '¶¬Ãß¿¨(Hibernation Card)', 'Ãâ×ï¿¨(Exoneration Card)', '¼Şµœ¿¨(CalamityShift Card)', '¾ù¸»¿¨(AverageRich Card)', '¾ùØš¿¨(AveragePoor Card)', '²é¶¿¨(Tax Card)', 'Í³ğ¿¨(Revenge Card)', '‰ôß[¿¨(DreamWalk Card)']
+['Ïİº¦¿¨(Framing Card)', 'ŞDÏò¿¨(Veer Card)', 'ÃâÙM¿¨(Free Card)', 'Í£Áô¿¨(Stop Card)', 'ÌìÊ¹¿¨(Angle Card)', 'ºÄ§¿¨(Devil Card)', '²ğ³ı¿¨(Demolition Card)', 'õı”¿¨(Turtle Card)', 'ÙµØ¿¨(Purchase Card)', '¹Ö«F¿¨(Monster Card)', '“ŒŠZ¿¨(Rob Card)', '¶¬Ãß¿¨(Hibernation Card)', 'Ãâ×ï¿¨(Exoneration Card)', '¼Şµœ¿¨(CalamityShift Card)', '¾ù¸»¿¨(AverageRich Card)', '¾ùØš¿¨(AveragePoor Card)', '²é¶¿¨(Tax Card)', 'Í³ğ¿¨(Revenge Card)', '‰ôß[¿¨(DreamWalk Card)']
+['Ïİº¦¿¨(Framing Card)', 'ŞDÏò¿¨(Veer Card)', 'ÃâÙM¿¨(Free Card)', 'Í£Áô¿¨(Stop Card)', 'ÌìÊ¹¿¨(Angle Card)', 'ºÄ§¿¨(Devil Card)', '²ğ³ı¿¨(Demolition Card)', 'õı”¿¨(Turtle Card)', 'ÙµØ¿¨(Purchase Card)', '¹Ö«F¿¨(Monster Card)', '“ŒŠZ¿¨(Rob Card)', '¶¬Ãß¿¨(Hibernation Card)', 'Ãâ×ï¿¨(Exoneration Card)', '¼Şµœ¿¨(CalamityShift Card)', '¾ù¸»¿¨(AverageRich Card)', '¾ùØš¿¨(AveragePoor Card)', '²é¶¿¨(Tax Card)', 'Í³ğ¿¨(Revenge Card)', '‰ôß[¿¨(DreamWalk Card)']
+['Ïİº¦¿¨(Framing Card)', 'ŞDÏò¿¨(Veer Card)', 'ÃâÙM¿¨(Free Card)', 'Í£Áô¿¨(Stop Card)', 'ÌìÊ¹¿¨(Angle Card)', 'ºÄ§¿¨(Devil Card)', '²ğ³ı¿¨(Demolition Card)', 'õı”¿¨(Turtle Card)', 'ÙµØ¿¨(Purchase Card)', '¹Ö«F¿¨(Monster Card)', '“ŒŠZ¿¨(Rob Card)', '¶¬Ãß¿¨(Hibernation Card)', 'Ãâ×ï¿¨(Exoneration Card)', '¼Şµœ¿¨(CalamityShift Card)', '¾ù¸»¿¨(AverageRich Card)', '¾ùØš¿¨(AveragePoor Card)', '²é¶¿¨(Tax Card)', 'Í³ğ¿¨(Revenge Card)', '‰ôß[¿¨(DreamWalk Card)']
+[]
+[]
+[]
+[]
